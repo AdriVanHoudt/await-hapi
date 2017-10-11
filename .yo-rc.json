@@ -1,0 +1,9 @@
+{
+  "generator-node": {
+    "promptValues": {
+      "authorName": "Adri Van Houdt",
+      "authorEmail": "adri.van.houdt@gmail.com",
+      "authorUrl": ""
+    }
+  }
+}
